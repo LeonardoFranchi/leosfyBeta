@@ -8,11 +8,11 @@ Eu(Leonardo Franchi) desevolvi junto com meu colega Leonardo Eugênio;
 # Linguagens utilizadas:
 
 - front-end:
- javaScript
- html
+ javaScript,
+ html,
  css (framework materialize)
 
 - back-end:
- PHP 
+ PHP, 
  MYSQL
 
