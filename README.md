@@ -24,7 +24,7 @@ Leosfy é um aplicativo híbrido desenvolvido como Trabalho de Conclusão de Cur
 ## 📂 Estrutura do projeto
 
 - `img/` → imagens do projeto  
-- `info/` → arquivos informativos  
+- `info/` → arquivo .sql do banco de dados
 - `server_leosfy.bkp` → backup do servidor  
 - `src/` → código-fonte principal  
 - `style/` → arquivos de estilo  
